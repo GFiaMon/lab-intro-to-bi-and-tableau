@@ -436,7 +436,7 @@
       <layout-options>
         <title>
           <formatted-text>
-            <run>Total Warehouse Sales by Year/Quarter </run>
+            <run>Average Warehouse Sales by Year/Quarter</run>
           </formatted-text>
         </title>
       </layout-options>
@@ -1112,7 +1112,7 @@
       </cards>
       <simple-id uuid='{4A72CFB3-74A6-4383-945A-7942BF4BF5BD}' />
     </window>
-    <window class='worksheet' name='8.2'>
+    <window class='worksheet' maximized='true' name='8.2'>
       <cards>
         <edge name='left'>
           <strip size='160'>
@@ -1382,7 +1382,7 @@
       </viewpoint>
       <simple-id uuid='{9E5B0EA7-3BDD-41A7-BC7A-E3546BB444DA}' />
     </window>
-    <window class='worksheet' maximized='true' name='8.12'>
+    <window class='worksheet' name='8.12'>
       <cards>
         <edge name='left'>
           <strip size='160'>
